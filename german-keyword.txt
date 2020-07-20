@@ -1,0 +1,8 @@
+Sentence: "Das Baltische Dichterbuch. Eine Auswahl deutscher Dichtungen aus den Baltischen Provinzen Rußlands."
+Keywords: "Dichterbuch"
+
+Sentence: "Wäscheschablonen in Blechschachtel"
+Keywords: "Blechschachtel"
+
+Sentence: "Tischnähmaschine mit abklappbarem Oberteil (mit Schraubverschluss) . Schwungrad an der rechten Seite."
+Keywords: "Tischnähmaschine"
