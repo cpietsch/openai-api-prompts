@@ -1,0 +1,11 @@
+Sentence: "Wandschrank für die Wohnstube / Almerei"
+Thema: "Schrank"
+
+Sentence: "Truhe mit flachem Deckel, scheinbar auf Rahmen und Füllung gearbeitet, aber nur aufgesetzte Leisten. Deckel Doppelrahmen, Seiten einfache Rahmen mit eisernem Klappgriff. Vorderwand mit zwei Feldern mit je einem Doppelbogen. Unterleiste und Lisenenleisten geschnitzt mit schuppenartigem Muster und Wirbelrad."
+Thema: "Truhe"
+
+Sentence: "Weihnachtsbaum-Aufstecker in Pyramidenform. Auf der Spitze ein stehender, Trompete blasender Engel mit Spruchband "Ehre sei Gott in der Höhe", darunter ein neunblättriges Windrad."
+Thema: "Weihnachten"
+
+Sentence: "Teil des Zaumzeugs (Geschirrs). Knochenteil von der Leitleine, zweiteilig (Gelenk). Im Gegensatz zu der folgenden Nummer hat der Stöpsel nur ein Loch. Das Unterteil hat drei Löcher. Eine Besitzmarke fehlt. Das Teil wird zwischen Kopfzaumzeug und Leitleine als Gelenk befestigt."
+Thema: "Zaumzeug"
