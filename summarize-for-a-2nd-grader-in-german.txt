@@ -1,0 +1,8 @@
+My second grader asked me what this passage means:
+"""
+To use the API, you simply give it a text prompt (the text-based input or "instructions" you provide to the API) and it will return a text completion, attempting to match the context or pattern you gave it. You can “program” it by crafting a description or writing just a few examples of what you’d like it to do. Its success generally varies depending on how complex the task is. A good rule of thumb is thinking about how you would write out a word problem for a middle schooler to solve.
+"""
+
+I rephrased it for him, in plain german language a second grader can understand:
+"""
+Wenn du ein Problem hast, was du nicht verstehst, dann kannst du es mit der "API" (Anwendungsprogrammierung) versuchen. Du gibst der API eine Aufgabe und sie versucht, diese zu lösen. Du musst dir die Aufgabe nur gut genug beschreiben, damit die API sie versteht. Das ist wie bei einem kleinen Problem, das du in der Schule lösen musst.
