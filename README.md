@@ -1,2 +1,2 @@
-# openai-api-snippets
+# openai-api-prompts
 priming examples
